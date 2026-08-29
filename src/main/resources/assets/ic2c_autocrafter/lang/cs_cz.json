@@ -1,0 +1,18 @@
+{
+  "block.ic2c_autocrafter.auto_crafter": "Automatický ponk",
+  "tooltip.block.ic2c_autocrafter.auto_crafter": "Vyrábí recepty uložené na Memory Sticku",
+  "tooltip.block.ic2c_autocrafter.auto_crafter.usage": "Recepty se ukládají na Industrial Worktable",
+  "gui.ic2c_autocrafter.recipe.empty": "Prázdný slot receptu",
+  "gui.ic2c_autocrafter.recipe.enabled": "Zapnuto - kliknutím vypnete",
+  "gui.ic2c_autocrafter.recipe.disabled": "Vypnuto - kliknutím zapnete",
+  "gui.ic2c_autocrafter.recipe.active": "Právě se vyrábí",
+  "gui.ic2c_autocrafter.status.working": "Výroba",
+  "gui.ic2c_autocrafter.status.no_stick": "Není vložen Memory Stick",
+  "gui.ic2c_autocrafter.status.no_recipes": "Na kartě nejsou platné recepty",
+  "gui.ic2c_autocrafter.status.all_disabled": "Všechny recepty vypnuty",
+  "gui.ic2c_autocrafter.status.missing_items": "Chybí suroviny",
+  "gui.ic2c_autocrafter.status.output_full": "Výstupní sloty jsou plné",
+  "gui.ic2c_autocrafter.status.no_energy": "Nedostatek energie",
+  "gui.ic2c_autocrafter.status.redstone": "Zastaveno redstonem",
+  "gui.ic2c_autocrafter.status.missing_items.detail": "Chybí: %s"
+}

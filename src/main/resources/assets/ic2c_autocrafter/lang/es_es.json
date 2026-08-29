@@ -1,0 +1,18 @@
+{
+  "block.ic2c_autocrafter.auto_crafter": "Mesa de trabajo automática",
+  "tooltip.block.ic2c_autocrafter.auto_crafter": "Ejecuta recetas guardadas en una Memory Stick",
+  "tooltip.block.ic2c_autocrafter.auto_crafter.usage": "Guarda las recetas en una Industrial Worktable",
+  "gui.ic2c_autocrafter.recipe.empty": "Ranura de receta vacía",
+  "gui.ic2c_autocrafter.recipe.enabled": "Activada - clic para desactivar",
+  "gui.ic2c_autocrafter.recipe.disabled": "Desactivada - clic para activar",
+  "gui.ic2c_autocrafter.recipe.active": "Fabricando ahora",
+  "gui.ic2c_autocrafter.status.working": "Fabricando",
+  "gui.ic2c_autocrafter.status.no_stick": "No hay Memory Stick",
+  "gui.ic2c_autocrafter.status.no_recipes": "No hay recetas válidas en la memoria",
+  "gui.ic2c_autocrafter.status.all_disabled": "Todas las recetas desactivadas",
+  "gui.ic2c_autocrafter.status.missing_items": "Faltan ingredientes",
+  "gui.ic2c_autocrafter.status.output_full": "Ranuras de salida llenas",
+  "gui.ic2c_autocrafter.status.no_energy": "Energía insuficiente",
+  "gui.ic2c_autocrafter.status.redstone": "Detenida por redstone",
+  "gui.ic2c_autocrafter.status.missing_items.detail": "Falta: %s"
+}

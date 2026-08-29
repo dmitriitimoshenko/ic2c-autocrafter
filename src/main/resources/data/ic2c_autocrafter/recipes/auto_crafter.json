@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " T ",
+    "AMA",
+    " C "
+  ],
+  "key": {
+    "T": { "item": "minecraft:crafting_table" },
+    "A": { "item": "ic2:advanced_circuit" },
+    "M": { "item": "ic2:advanced_machine_block" },
+    "C": { "item": "ic2:circuit" }
+  },
+  "result": { "item": "ic2c_autocrafter:auto_crafter" }
+}

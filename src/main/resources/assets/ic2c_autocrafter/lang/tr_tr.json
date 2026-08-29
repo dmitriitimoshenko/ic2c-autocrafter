@@ -1,0 +1,18 @@
+{
+  "block.ic2c_autocrafter.auto_crafter": "Otomatik Tezgah",
+  "tooltip.block.ic2c_autocrafter.auto_crafter": "Bellek çubuğuna kaydedilmiş tarifleri üretir",
+  "tooltip.block.ic2c_autocrafter.auto_crafter.usage": "Tarifler Industrial Worktable üzerinde kaydedilir",
+  "gui.ic2c_autocrafter.recipe.empty": "Boş tarif yuvası",
+  "gui.ic2c_autocrafter.recipe.enabled": "Açık - kapatmak için tıkla",
+  "gui.ic2c_autocrafter.recipe.disabled": "Kapalı - açmak için tıkla",
+  "gui.ic2c_autocrafter.recipe.active": "Şu anda üretiliyor",
+  "gui.ic2c_autocrafter.status.working": "Üretiliyor",
+  "gui.ic2c_autocrafter.status.no_stick": "Bellek çubuğu takılı değil",
+  "gui.ic2c_autocrafter.status.no_recipes": "Bellek çubuğunda geçerli tarif yok",
+  "gui.ic2c_autocrafter.status.all_disabled": "Tüm tarifler kapalı",
+  "gui.ic2c_autocrafter.status.missing_items": "Malzeme eksik",
+  "gui.ic2c_autocrafter.status.output_full": "Çıkış yuvaları dolu",
+  "gui.ic2c_autocrafter.status.no_energy": "Yeterli enerji yok",
+  "gui.ic2c_autocrafter.status.redstone": "Redstone ile durduruldu",
+  "gui.ic2c_autocrafter.status.missing_items.detail": "Eksik: %s"
+}

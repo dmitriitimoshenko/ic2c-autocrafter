@@ -1,0 +1,18 @@
+{
+  "block.ic2c_autocrafter.auto_crafter": "Auto-Werkbank",
+  "tooltip.block.ic2c_autocrafter.auto_crafter": "Fertigt Rezepte, die auf einem Memory Stick gespeichert sind",
+  "tooltip.block.ic2c_autocrafter.auto_crafter.usage": "Rezepte werden an der Industrial Worktable gespeichert",
+  "gui.ic2c_autocrafter.recipe.empty": "Leerer Rezeptplatz",
+  "gui.ic2c_autocrafter.recipe.enabled": "Aktiv - Klick zum Abschalten",
+  "gui.ic2c_autocrafter.recipe.disabled": "Abgeschaltet - Klick zum Aktivieren",
+  "gui.ic2c_autocrafter.recipe.active": "Wird gerade gefertigt",
+  "gui.ic2c_autocrafter.status.working": "Fertigt",
+  "gui.ic2c_autocrafter.status.no_stick": "Kein Memory Stick eingesetzt",
+  "gui.ic2c_autocrafter.status.no_recipes": "Keine gültigen Rezepte auf dem Stick",
+  "gui.ic2c_autocrafter.status.all_disabled": "Alle Rezepte abgeschaltet",
+  "gui.ic2c_autocrafter.status.missing_items": "Zutaten fehlen",
+  "gui.ic2c_autocrafter.status.output_full": "Ausgabeplätze sind voll",
+  "gui.ic2c_autocrafter.status.no_energy": "Nicht genug Energie",
+  "gui.ic2c_autocrafter.status.redstone": "Durch Redstone gestoppt",
+  "gui.ic2c_autocrafter.status.missing_items.detail": "Fehlt: %s"
+}

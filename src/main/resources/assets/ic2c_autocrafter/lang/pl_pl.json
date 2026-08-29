@@ -1,0 +1,18 @@
+{
+  "block.ic2c_autocrafter.auto_crafter": "Automatyczny stół",
+  "tooltip.block.ic2c_autocrafter.auto_crafter": "Wykonuje receptury zapisane na Memory Stick",
+  "tooltip.block.ic2c_autocrafter.auto_crafter.usage": "Receptury zapisuje się na Industrial Worktable",
+  "gui.ic2c_autocrafter.recipe.empty": "Puste miejsce receptury",
+  "gui.ic2c_autocrafter.recipe.enabled": "Włączona - kliknij, aby wyłączyć",
+  "gui.ic2c_autocrafter.recipe.disabled": "Wyłączona - kliknij, aby włączyć",
+  "gui.ic2c_autocrafter.recipe.active": "Właśnie wytwarzana",
+  "gui.ic2c_autocrafter.status.working": "Wytwarzanie",
+  "gui.ic2c_autocrafter.status.no_stick": "Brak Memory Stick",
+  "gui.ic2c_autocrafter.status.no_recipes": "Brak poprawnych receptur na nośniku",
+  "gui.ic2c_autocrafter.status.all_disabled": "Wszystkie receptury wyłączone",
+  "gui.ic2c_autocrafter.status.missing_items": "Brakuje składników",
+  "gui.ic2c_autocrafter.status.output_full": "Sloty wyjściowe pełne",
+  "gui.ic2c_autocrafter.status.no_energy": "Za mało energii",
+  "gui.ic2c_autocrafter.status.redstone": "Zatrzymany przez redstone",
+  "gui.ic2c_autocrafter.status.missing_items.detail": "Brakuje: %s"
+}

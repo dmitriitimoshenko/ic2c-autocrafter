@@ -1,0 +1,18 @@
+{
+  "block.ic2c_autocrafter.auto_crafter": "オートクラフター",
+  "tooltip.block.ic2c_autocrafter.auto_crafter": "メモリースティックに保存されたレシピを実行します",
+  "tooltip.block.ic2c_autocrafter.auto_crafter.usage": "レシピは Industrial Worktable で保存します",
+  "gui.ic2c_autocrafter.recipe.empty": "空のレシピ枠",
+  "gui.ic2c_autocrafter.recipe.enabled": "有効 - クリックで無効化",
+  "gui.ic2c_autocrafter.recipe.disabled": "無効 - クリックで有効化",
+  "gui.ic2c_autocrafter.recipe.active": "現在このレシピを作成中",
+  "gui.ic2c_autocrafter.status.working": "作成中",
+  "gui.ic2c_autocrafter.status.no_stick": "メモリースティックがありません",
+  "gui.ic2c_autocrafter.status.no_recipes": "有効なレシピがありません",
+  "gui.ic2c_autocrafter.status.all_disabled": "すべてのレシピが無効です",
+  "gui.ic2c_autocrafter.status.missing_items": "材料が足りません",
+  "gui.ic2c_autocrafter.status.output_full": "出力スロットが満杯です",
+  "gui.ic2c_autocrafter.status.no_energy": "エネルギーが足りません",
+  "gui.ic2c_autocrafter.status.redstone": "レッドストーンで停止中",
+  "gui.ic2c_autocrafter.status.missing_items.detail": "不足: %s"
+}

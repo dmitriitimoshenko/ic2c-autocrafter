@@ -1,0 +1,18 @@
+{
+  "block.ic2c_autocrafter.auto_crafter": "Аўтаверстак",
+  "tooltip.block.ic2c_autocrafter.auto_crafter": "Выконвае рэцэпты, запісаныя на карту памяці",
+  "tooltip.block.ic2c_autocrafter.auto_crafter.usage": "Рэцэпты запісваюцца на Industrial Worktable",
+  "gui.ic2c_autocrafter.recipe.empty": "Пустая ячэйка рэцэпта",
+  "gui.ic2c_autocrafter.recipe.enabled": "Уключаны — ЛКМ, каб выключыць",
+  "gui.ic2c_autocrafter.recipe.disabled": "Выключаны — ЛКМ, каб уключыць",
+  "gui.ic2c_autocrafter.recipe.active": "Крафціцца зараз",
+  "gui.ic2c_autocrafter.status.working": "Крафт",
+  "gui.ic2c_autocrafter.status.no_stick": "Няма карты памяці",
+  "gui.ic2c_autocrafter.status.no_recipes": "На карце няма карэктных рэцэптаў",
+  "gui.ic2c_autocrafter.status.all_disabled": "Усе рэцэпты выключаны",
+  "gui.ic2c_autocrafter.status.missing_items": "Не хапае інгрэдыентаў",
+  "gui.ic2c_autocrafter.status.output_full": "Выхадныя слоты запоўнены",
+  "gui.ic2c_autocrafter.status.no_energy": "Недастаткова энергіі",
+  "gui.ic2c_autocrafter.status.redstone": "Спынены рэдстоўнам",
+  "gui.ic2c_autocrafter.status.missing_items.detail": "Не хапае: %s"
+}

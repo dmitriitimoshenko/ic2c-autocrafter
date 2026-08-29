@@ -1,0 +1,18 @@
+{
+  "block.ic2c_autocrafter.auto_crafter": "Αυτόματος Πάγκος",
+  "tooltip.block.ic2c_autocrafter.auto_crafter": "Εκτελεί συνταγές αποθηκευμένες σε Memory Stick",
+  "tooltip.block.ic2c_autocrafter.auto_crafter.usage": "Οι συνταγές γράφονται στο Industrial Worktable",
+  "gui.ic2c_autocrafter.recipe.empty": "Κενή θέση συνταγής",
+  "gui.ic2c_autocrafter.recipe.enabled": "Ενεργή - κλικ για απενεργοποίηση",
+  "gui.ic2c_autocrafter.recipe.disabled": "Ανενεργή - κλικ για ενεργοποίηση",
+  "gui.ic2c_autocrafter.recipe.active": "Κατασκευάζεται τώρα",
+  "gui.ic2c_autocrafter.status.working": "Κατασκευή",
+  "gui.ic2c_autocrafter.status.no_stick": "Δεν υπάρχει Memory Stick",
+  "gui.ic2c_autocrafter.status.no_recipes": "Καμία έγκυρη συνταγή στο Memory Stick",
+  "gui.ic2c_autocrafter.status.all_disabled": "Όλες οι συνταγές είναι απενεργοποιημένες",
+  "gui.ic2c_autocrafter.status.missing_items": "Λείπουν υλικά",
+  "gui.ic2c_autocrafter.status.output_full": "Οι θέσεις εξόδου είναι γεμάτες",
+  "gui.ic2c_autocrafter.status.no_energy": "Δεν υπάρχει αρκετή ενέργεια",
+  "gui.ic2c_autocrafter.status.redstone": "Σταμάτησε από redstone",
+  "gui.ic2c_autocrafter.status.missing_items.detail": "Λείπει: %s"
+}

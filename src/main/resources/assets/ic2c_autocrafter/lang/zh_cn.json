@@ -1,0 +1,18 @@
+{
+  "block.ic2c_autocrafter.auto_crafter": "自动合成机",
+  "tooltip.block.ic2c_autocrafter.auto_crafter": "执行存储在记忆棒上的合成配方",
+  "tooltip.block.ic2c_autocrafter.auto_crafter.usage": "配方需在工业工作台上写入",
+  "gui.ic2c_autocrafter.recipe.empty": "空配方槽",
+  "gui.ic2c_autocrafter.recipe.enabled": "已启用 - 点击关闭",
+  "gui.ic2c_autocrafter.recipe.disabled": "已关闭 - 点击启用",
+  "gui.ic2c_autocrafter.recipe.active": "正在合成此配方",
+  "gui.ic2c_autocrafter.status.working": "合成中",
+  "gui.ic2c_autocrafter.status.no_stick": "未插入记忆棒",
+  "gui.ic2c_autocrafter.status.no_recipes": "记忆棒上没有有效配方",
+  "gui.ic2c_autocrafter.status.all_disabled": "所有配方均已关闭",
+  "gui.ic2c_autocrafter.status.missing_items": "缺少材料",
+  "gui.ic2c_autocrafter.status.output_full": "输出槽已满",
+  "gui.ic2c_autocrafter.status.no_energy": "能量不足",
+  "gui.ic2c_autocrafter.status.redstone": "被红石信号停止",
+  "gui.ic2c_autocrafter.status.missing_items.detail": "缺少：%s"
+}

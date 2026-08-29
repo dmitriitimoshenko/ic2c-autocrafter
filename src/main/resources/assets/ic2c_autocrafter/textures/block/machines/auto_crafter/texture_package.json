@@ -1,0 +1,14 @@
+{
+	"active_down": "ic2:block/electric/battery_station/mv/down",
+	"active_east": "ic2c_autocrafter:block/machines/auto_crafter/active_side",
+	"active_north": "ic2c_autocrafter:block/machines/auto_crafter/active_side",
+	"active_south": "ic2c_autocrafter:block/machines/auto_crafter/active_side",
+	"active_up": "ic2c_autocrafter:block/machines/auto_crafter/active_up",
+	"active_west": "ic2c_autocrafter:block/machines/auto_crafter/active_side",
+	"inactive_down": "ic2:block/electric/battery_station/mv/down",
+	"inactive_east": "ic2c_autocrafter:block/machines/auto_crafter/inactive_side",
+	"inactive_north": "ic2c_autocrafter:block/machines/auto_crafter/inactive_side",
+	"inactive_south": "ic2c_autocrafter:block/machines/auto_crafter/inactive_side",
+	"inactive_up": "ic2c_autocrafter:block/machines/auto_crafter/inactive_up",
+	"inactive_west": "ic2c_autocrafter:block/machines/auto_crafter/inactive_side"
+}

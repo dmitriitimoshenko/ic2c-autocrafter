@@ -1,0 +1,18 @@
+{
+  "block.ic2c_autocrafter.auto_crafter": "자동 조합기",
+  "tooltip.block.ic2c_autocrafter.auto_crafter": "메모리 스틱에 저장된 조합법을 실행합니다",
+  "tooltip.block.ic2c_autocrafter.auto_crafter.usage": "조합법은 Industrial Worktable에서 저장합니다",
+  "gui.ic2c_autocrafter.recipe.empty": "빈 조합법 칸",
+  "gui.ic2c_autocrafter.recipe.enabled": "활성화됨 - 클릭하여 끄기",
+  "gui.ic2c_autocrafter.recipe.disabled": "꺼짐 - 클릭하여 켜기",
+  "gui.ic2c_autocrafter.recipe.active": "현재 이 조합법을 제작 중",
+  "gui.ic2c_autocrafter.status.working": "제작 중",
+  "gui.ic2c_autocrafter.status.no_stick": "메모리 스틱이 없습니다",
+  "gui.ic2c_autocrafter.status.no_recipes": "유효한 조합법이 없습니다",
+  "gui.ic2c_autocrafter.status.all_disabled": "모든 조합법이 꺼져 있습니다",
+  "gui.ic2c_autocrafter.status.missing_items": "재료가 부족합니다",
+  "gui.ic2c_autocrafter.status.output_full": "출력 칸이 가득 찼습니다",
+  "gui.ic2c_autocrafter.status.no_energy": "에너지가 부족합니다",
+  "gui.ic2c_autocrafter.status.redstone": "레드스톤으로 정지됨",
+  "gui.ic2c_autocrafter.status.missing_items.detail": "부족: %s"
+}

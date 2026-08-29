@@ -1,0 +1,18 @@
+{
+  "block.ic2c_autocrafter.auto_crafter": "Автоверстак",
+  "tooltip.block.ic2c_autocrafter.auto_crafter": "Выполняет рецепты, записанные на карту памяти",
+  "tooltip.block.ic2c_autocrafter.auto_crafter.usage": "Рецепты записываются на Industrial Worktable",
+  "gui.ic2c_autocrafter.recipe.empty": "Пустая ячейка рецепта",
+  "gui.ic2c_autocrafter.recipe.enabled": "Включён — ЛКМ, чтобы выключить",
+  "gui.ic2c_autocrafter.recipe.disabled": "Выключен — ЛКМ, чтобы включить",
+  "gui.ic2c_autocrafter.recipe.active": "Крафтится сейчас",
+  "gui.ic2c_autocrafter.status.working": "Крафт",
+  "gui.ic2c_autocrafter.status.no_stick": "Нет карты памяти",
+  "gui.ic2c_autocrafter.status.no_recipes": "На карте нет корректных рецептов",
+  "gui.ic2c_autocrafter.status.all_disabled": "Все рецепты выключены",
+  "gui.ic2c_autocrafter.status.missing_items": "Не хватает ингредиентов",
+  "gui.ic2c_autocrafter.status.output_full": "Выходные слоты заполнены",
+  "gui.ic2c_autocrafter.status.no_energy": "Недостаточно энергии",
+  "gui.ic2c_autocrafter.status.redstone": "Остановлен редстоуном",
+  "gui.ic2c_autocrafter.status.missing_items.detail": "Не хватает: %s"
+}

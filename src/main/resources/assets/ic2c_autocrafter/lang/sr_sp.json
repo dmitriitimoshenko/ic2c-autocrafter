@@ -1,0 +1,18 @@
+{
+  "block.ic2c_autocrafter.auto_crafter": "Аутоматски радни сто",
+  "tooltip.block.ic2c_autocrafter.auto_crafter": "Извршава рецепте сачуване на меморијској картици",
+  "tooltip.block.ic2c_autocrafter.auto_crafter.usage": "Рецепти се уписују на Industrial Worktable",
+  "gui.ic2c_autocrafter.recipe.empty": "Празно место за рецепт",
+  "gui.ic2c_autocrafter.recipe.enabled": "Укључен — клик за искључивање",
+  "gui.ic2c_autocrafter.recipe.disabled": "Искључен — клик за укључивање",
+  "gui.ic2c_autocrafter.recipe.active": "Тренутно се израђује",
+  "gui.ic2c_autocrafter.status.working": "Израда",
+  "gui.ic2c_autocrafter.status.no_stick": "Нема меморијске картице",
+  "gui.ic2c_autocrafter.status.no_recipes": "Нема исправних рецепата на картици",
+  "gui.ic2c_autocrafter.status.all_disabled": "Сви рецепти су искључени",
+  "gui.ic2c_autocrafter.status.missing_items": "Недостају састојци",
+  "gui.ic2c_autocrafter.status.output_full": "Излазна места су пуна",
+  "gui.ic2c_autocrafter.status.no_energy": "Нема довољно енергије",
+  "gui.ic2c_autocrafter.status.redstone": "Заустављено редстоуном",
+  "gui.ic2c_autocrafter.status.missing_items.detail": "Недостаје: %s"
+}

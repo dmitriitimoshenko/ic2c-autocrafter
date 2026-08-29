@@ -1,0 +1,18 @@
+{
+  "block.ic2c_autocrafter.auto_crafter": "Auto Crafter",
+  "tooltip.block.ic2c_autocrafter.auto_crafter": "Runs crafting recipes stored on a Memory Stick",
+  "tooltip.block.ic2c_autocrafter.auto_crafter.usage": "Write the recipes on an Industrial Worktable",
+  "gui.ic2c_autocrafter.recipe.empty": "Empty recipe slot",
+  "gui.ic2c_autocrafter.recipe.enabled": "Enabled - click to switch off",
+  "gui.ic2c_autocrafter.recipe.disabled": "Switched off - click to enable",
+  "gui.ic2c_autocrafter.recipe.active": "Crafting this one now",
+  "gui.ic2c_autocrafter.status.working": "Crafting",
+  "gui.ic2c_autocrafter.status.no_stick": "No Memory Stick inserted",
+  "gui.ic2c_autocrafter.status.no_recipes": "No valid recipes on the stick",
+  "gui.ic2c_autocrafter.status.all_disabled": "All recipes switched off",
+  "gui.ic2c_autocrafter.status.missing_items": "Missing ingredients",
+  "gui.ic2c_autocrafter.status.output_full": "Output slots are full",
+  "gui.ic2c_autocrafter.status.no_energy": "Not enough energy",
+  "gui.ic2c_autocrafter.status.redstone": "Stopped by redstone",
+  "gui.ic2c_autocrafter.status.missing_items.detail": "Missing: %s"
+}
