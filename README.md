@@ -10,12 +10,6 @@ The mod registers through IC2's own plugin API (`@IC2Plugin`), extends IC2's mac
 IC2's GUI engine, so it behaves like a stock IC2 machine: EU, upgrades, wrench, comparators, slot side
 configuration, The One Probe.
 
-<img src="docs/auto-crafter-demo.gif" width="528" alt="Auto Crafter running a recipe">
-
-*Interface animation rendered from the mod's own textures: the left panel holds nine recipes from
-the stick, one running (green frame) and one switched off, ingredients drain from the buffer and
-results collect in the output column.*
-
 ## How it works
 
 1. Save recipes onto a Memory Stick at an **Industrial Worktable**.
