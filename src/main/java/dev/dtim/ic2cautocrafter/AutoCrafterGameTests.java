@@ -82,7 +82,7 @@ public class AutoCrafterGameTests {
         });
     }
 
-    /** Overclockers are RECIPE_MOD upgrades in IC2C; the craft has to finish well before the base 200 ticks. */
+    /** Overclockers are RECIPE_MOD upgrades in IC2C; the craft has to finish well before the base 100 ticks. */
     @GameTest(template = "empty", timeoutTicks = 400)
     public static void overclockersSpeedUpTheCraft(GameTestHelper helper) {
         AutoCrafterTileEntity tile = placeMachine(helper);

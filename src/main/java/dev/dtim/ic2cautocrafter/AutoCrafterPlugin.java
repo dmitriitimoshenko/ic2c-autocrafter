@@ -10,7 +10,7 @@ import net.minecraftforge.eventbus.api.IEventBus;
  * list and can be toggled from IC2's config. Content registration itself happens on the
  * mod event bus in {@link AutoCrafterMod}.
  */
-@IC2Plugin(name = "IC2C Auto Crafter", id = AutoCrafterMod.MOD_ID, version = "1.0.0", requiredAPIVersion = 0)
+@IC2Plugin(name = "IC2C Auto Crafter", id = AutoCrafterMod.MOD_ID, version = "1.2.2", requiredAPIVersion = 0)
 public class AutoCrafterPlugin implements IModule {
 
     @Override

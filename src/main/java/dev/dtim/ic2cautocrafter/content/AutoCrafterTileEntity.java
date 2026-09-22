@@ -59,7 +59,7 @@ import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.api.distmarker.OnlyIn;
 
 /**
- * Low voltage crafting machine. Recipes are not configured in the machine itself: it reads
+ * Medium voltage crafting machine. Recipes are not configured in the machine itself: it reads
  * up to nine of them from an IC2 Memory Stick that was written on an Industrial Worktable.
  * Every operation crafts exactly one recipe, cycling through the enabled ones whose
  * ingredients are present in the input buffer.

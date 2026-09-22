@@ -74,7 +74,8 @@ Sources: [Industrial Assembler thread](https://forum.industrial-craft.net/thread
 
 * Minecraft 1.19.2, Forge 43+
 * IC2 Classic 1.19.2-2.1.3.0 or newer
-* CarbonConfig (already required by IC2 Classic)
+* CarbonConfig 2.0.0 or newer (IC2 Classic 2.1.3.3+ already depends on it; with older IC2 Classic
+  builds install it separately)
 
 ## Configuration
 
@@ -103,4 +104,8 @@ Then:
 ./gradlew runGameTestServer  # headless behaviour tests
 ```
 
-Modpacks are welcome to include this mod, no permission needed.
+## License
+
+[MIT](LICENSE), covering the code and every asset in the jar: textures, GUI, sounds and logo. The
+bottom face of the machine uses IC2 Classic's own texture by reference, so nothing from IC2 Classic
+is shipped. Modpacks are welcome to include this mod, no permission needed.

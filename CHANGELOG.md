@@ -1,45 +1,49 @@
 # Changelog
 
 ## 1.2.2
-* Подсветка рецептов переделана так, чтобы иконка всегда оставалась видна: активный рецепт —
-  тонкая зелёная рамка и еле заметное свечение вместо заливки, выключенный — лёгкое затемнение
-  плюс красная метка в углу.
+* Recipe highlighting reworked so the icon always stays readable: the active recipe gets a thin
+  green frame and a faint glow instead of a fill, a switched-off one a light dim plus a red mark in
+  the corner.
+* New casing textures, logo and GUI icons. All art in the mod is now original, so the MIT license
+  covers everything.
 
 ## 1.2.1
-* Исправлено: рецепты не сбрасывались при извлечении карты памяти. Причина — `SlotBase.remove()`
-  в IC2 отдаёт обратно тот же самый объект стека, уже опустошённый, поэтому сравнение «старый стек
-  против нового» никогда не срабатывало. Теперь машина хранит копию карты и сверяется с ней,
-  в том числе каждый тик.
-* Исправлено: клик по иконке рецепта рисовал чёрный квадрат — полупрозрачная заливка выводилась
-  без включённого блендинга. Выключенный рецепт затемняется корректно, активный обведён рамкой,
-  а не залит.
-* GUI стал выше на 10 пикселей: кнопки IC2 «I» и «C» больше не наезжают на панель рецептов.
+* Fixed: recipes were not cleared when the Memory Stick was taken out. IC2's `SlotBase.remove()`
+  hands back the very same stack object, already emptied, so comparing the old stack with the new
+  one never fired. The machine now keeps a copy of the stick and checks against it, on every tick
+  as well.
+* Fixed: clicking a recipe icon drew a black square, because the translucent fill was rendered
+  without blending. A switched-off recipe is now dimmed properly, and the active one is framed
+  rather than filled.
+* The GUI is 10 pixels taller: IC2's "I" and "C" buttons no longer overlap the recipe panel.
 
 ## 1.2.0
-* Машина переведена на **MV** (вход 128 EU/t): 8 EU/t, 100 тиков, 800 EU и 5 секунд на крафт,
-  буфер 4000 EU. Рецепт машины — Advanced Machine Block + 2x Advanced Circuit + Electronic Circuit
-  + верстак.
-* Собственный звук: бесшовный 2-секундный рабочий луп, звуки пуска и обрыва операции.
-* Анимация: волна сборки по сетке 3x3 на лицевой грани, бегущие индикаторы на боках, искры и дым
-  над рабочей гранью.
-* Подсказка называет конкретный недостающий ингредиент («Не хватает: 3x Copper Plate»).
-* Настройки через CarbonConfig: `config/ic2c/ic2c_autocrafter.cfg` (EU/тик, длительность, буфер, звук).
-* Исправлено: оверклокеры не работали — в IC2C они относятся к типу RECIPE_MOD, который машина
-  не принимала. Теперь принимаются все типы апгрейдов, как у штатных машин IC2.
-* Языки: добавлены be_by, sr_sp, el_gr, tr_tr (всего 16).
+* The machine moved to **MV** (128 EU/t input): 8 EU/t, 100 ticks, 800 EU and 5 seconds per craft,
+  4000 EU buffer. Machine recipe: Advanced Machine Block + 2x Advanced Circuit + Electronic Circuit
+  + Crafting Table.
+* Custom sound: a seamless 2 second working loop, plus start and interrupt cues.
+* Animation: an assembly wave across the 3x3 grid on the top face, running lights on the sides,
+  sparks and smoke above the working face.
+* The tooltip names the exact missing ingredient ("Missing: 3x Copper Plate").
+* Settings through CarbonConfig: `config/ic2c/ic2c_autocrafter.cfg` (EU per tick, craft time,
+  buffer, sound).
+* Fixed: Overclockers did nothing. IC2C files them under RECIPE_MOD, a type the machine did not
+  accept; it now accepts every upgrade type, like the stock IC2 machines.
+* Languages: added be_by, sr_sp, el_gr, tr_tr (16 in total).
 
 ## 1.1.0
-* Три выходных слота вместо одного: разные рецепты больше не блокируют друг друга.
-* Остатки крафта (вёдра и прочее) возвращаются в буфер только если они сами ингредиент, иначе
-  уходят в выход — буфер больше не забивается намертво.
-* Прогресс плавно затухает вместо мгновенного обнуления.
-* Машина замечает предметы, которые Import Upgrade и трубы пишут напрямую в инвентарь.
-* Любой из 9 рецептов можно выключить кликом; активный подсвечен, выключенные затемнены.
-* Подсказка на стрелке объясняет причину простоя (8 состояний).
-* Перекомпонован GUI: рецепты слева в рамке, карта/заряд/батарея по центру, выходы и апгрейды
-  справа колонками, буфер снизу.
-* Свои текстуры лицевой и боковых граней; 12 языков.
+* Three output slots instead of one: different recipes no longer block each other.
+* Craft leftovers (buckets and the like) go back to the buffer only if they are ingredients
+  themselves, otherwise to the output, so the buffer can no longer jam for good.
+* Progress drains smoothly instead of resetting at once.
+* The machine notices items that the Import Upgrade and tubes write straight into its inventory.
+* Any of the 9 recipes can be switched off with a click; the active one is highlighted, disabled
+  ones are dimmed.
+* The tooltip on the arrow explains why the machine is idle (8 states).
+* GUI rearranged: recipes framed on the left, stick/charge/battery in the middle, outputs and
+  upgrades in columns on the right, buffer at the bottom.
+* Own textures for the top and side faces; 12 languages.
 
 ## 1.0.0
-* Первая версия: LV-машина, читает до 9 рецептов с Memory Stick, 9 слотов буфера, 1 выход,
-  апгрейды IC2, GUI в стиле IC2, en_us + ru_ru.
+* First version: LV machine, reads up to 9 recipes from a Memory Stick, 9 buffer slots, 1 output,
+  IC2 upgrades, IC2-style GUI, en_us + ru_ru.

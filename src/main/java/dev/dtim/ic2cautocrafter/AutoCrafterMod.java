@@ -16,7 +16,7 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 /**
- * IC2 Classic addon: adds a low voltage Auto Crafter that executes crafting recipes
+ * IC2 Classic addon: adds a medium voltage Auto Crafter that executes crafting recipes
  * stored on IC2's Memory Stick.
  */
 @Mod(AutoCrafterMod.MOD_ID)
