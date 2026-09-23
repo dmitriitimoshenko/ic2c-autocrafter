@@ -30,3 +30,6 @@ libs/*.jar
 # local dev leftovers
 run-data
 *.log
+
+# upload kit for CurseForge / Modrinth, assembled locally
+publish/
