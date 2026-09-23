@@ -10,6 +10,11 @@ The mod registers through IC2's own plugin API (`@IC2Plugin`), extends IC2's mac
 IC2's GUI engine, so it behaves like a stock IC2 machine: EU, upgrades, wrench, comparators, slot side
 configuration, The One Probe.
 
+<p>
+  <img src="docs/screenshot-world.jpg" height="300" alt="Auto Crafter at work, powered by solar panels">
+  <img src="docs/screenshot-gui.png" height="300" alt="Auto Crafter GUI with a Memory Stick loaded">
+</p>
+
 ## How it works
 
 1. Save recipes onto a Memory Stick at an **Industrial Worktable**.
