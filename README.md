@@ -2,6 +2,11 @@
 
 <img src="docs/machine-face.gif" width="128" align="right" alt="working machine face">
 
+[![CurseForge](https://img.shields.io/curseforge/dt/1708647?style=for-the-badge&logo=curseforge&logoColor=white&label=CurseForge&color=F16436)](https://www.curseforge.com/minecraft/mc-mods/ic2c-auto-crafter)
+![Minecraft 1.19.2](https://img.shields.io/badge/Minecraft-1.19.2-555?style=for-the-badge)
+![Forge 43+](https://img.shields.io/badge/Forge-43%2B-555?style=for-the-badge)
+[![IC2 Classic 2.1.3+](https://img.shields.io/badge/IC2_Classic-2.1.3%2B-555?style=for-the-badge)](https://www.curseforge.com/minecraft/mc-mods/ic2-classic)
+
 An **IndustrialCraft 2 Classic** addon for Minecraft 1.19.2 (Forge) that adds a single machine: the
 **Auto Crafter**. It does not invent its own recipe editor — it runs the crafting recipes you already
 stored on IC2's **Memory Stick** with an Industrial Worktable.
